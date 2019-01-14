@@ -1,0 +1,20 @@
+{
+    "name": "Roger Campbell II",
+    "website": "https://www.RogerCampbell.net",
+    "linkedin": "https://www.linkedin.com/in/roger-campbell-ii",
+    "github": "rc1336",
+    "email": "rc1336@gmail.com",
+    "proficient-technologies": [
+        "HTML", 
+        "Pug",
+        "SASS",
+        "SCSS",
+        "CSS", 
+        "JavaScript",  
+        "Node" 
+    ],
+    "other-skills": [
+        "business technology architecture ",
+        "social networking"
+    ]
+}
